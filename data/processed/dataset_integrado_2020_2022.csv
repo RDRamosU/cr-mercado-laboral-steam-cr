@@ -1,0 +1,4 @@
+año,tasa_desempleo,educacion_universitaria,ocup_calificada_alta,empleo_zf_servicios,empleo_zf_total,salario_zf_usd,salario_nacional_usd,brecha_salarial,steam_total,steam_mujer,steam_hombre,ratio_empleo_zf_vs_graduados
+2020,19.60688484745551,564117.75,425170.25,90829,144202,1686,1181,1.43,5830,2828,3002,15.6
+2021,16.433372011877097,597963.0,476195.5,101676,164212,1566,1155,1.36,7007,3246,3761,14.5
+2022,12.218830784361874,612925.5,494187.0,117310,184035,1640,1121,1.46,7273,3440,3833,16.1
