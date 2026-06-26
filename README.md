@@ -84,10 +84,10 @@ cr-mercado-laboral-steam-cr/
 
 | Notebook | Descripción | Estado |
 |----------|-------------|--------|
-| [01 — Definición del problema](notebooks/01_definicion_problema.ipynb) | Contexto, preguntas, inventario de fuentes y hallazgo anticipado | 🟡 En progreso |
-| [02 — Exploración de datos](notebooks/02_exploracion_datos.ipynb) | Carga y primera inspección de todas las fuentes | ⚪ Pendiente |
-| [03 — Limpieza y preparación](notebooks/03_limpieza_preparacion.ipynb) | Consolidación, validación cruzada y dataset final | ⚪ Pendiente |
-| [04 — Visualizaciones y hallazgos](notebooks/04_visualizaciones_hallazgos.ipynb) | Gráficas, tendencias y conclusiones | ⚪ Pendiente |
+| [01 — Definición del problema](notebooks/01_definicion_problema.ipynb) | Contexto, preguntas, inventario de fuentes y hallazgo anticipado | 🟢 Completado |
+| [02 — Exploración de datos](notebooks/02_exploracion_datos.ipynb) | Carga y primera inspección de todas las fuentes | 🟢 Completado |
+| [03 — Limpieza y preparación](notebooks/03_limpieza_preparacion.ipynb) | Consolidación, validación cruzada y dataset final | 🟢 Completado |
+| [04 — Visualizaciones y hallazgos](notebooks/04_visualizaciones_hallazgos.ipynb) | Gráficas, tendencias y conclusiones | 🟢 Completado |
 
 ---
 
@@ -130,9 +130,16 @@ jupyter notebook
 | # | Proyecto | Estado |
 |---|----------|--------|
 | 1 | [Graduados STEAM en CR 2014–2022](https://github.com/RDRamosU/cr-graduados-steam-analisis) | [🟢 Completado](https://www.linkedin.com/pulse/graduados-steam-de-las-universidades-estatales-costa-rica-zaj4e) |
-| **2** | **Mercado laboral tech en CR** ← estás aquí | 🟡 En progreso |
-| 3 | Habilidades demandadas por empresas tech en CR | ⚪ Pendiente |
-| 4 | Comparativa regional: CR vs Latinoamérica en STEAM | ⚪ Pendiente |
+| **2** | **Mercado laboral tech en CR** ← estás aquí | 🟢 Completado |
+| 3 | [Habilidades demandadas tech CR](https://github.com/RDRamosU/cr-habilidades-demanda-tech) | 🟢 Completado |
+| 4 | [CR vs Latinoamérica en STEAM](https://github.com/RDRamosU/cr-steam-comparativa-regional) | 🟢 Completado |
+
+---
+
+## 📰 Artículo publicado
+
+Análisis completo publicado en LinkedIn:  
+[Mercado laboral tech en Costa Rica](https://www.linkedin.com/pulse/graduados-steam-de-las-universidades-estatales-costa-rica-zaj4e)
 
 ---
 
