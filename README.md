@@ -131,6 +131,7 @@ jupyter notebook
 |---|----------|--------|
 | 1 | [Graduados STEAM en CR 2014–2022](https://github.com/RDRamosU/cr-graduados-steam-analisis) | [🟢 Completado](https://www.linkedin.com/pulse/graduados-steam-de-las-universidades-estatales-costa-rica-zaj4e) |
 | **2** | **Mercado laboral tech en CR** ← estás aquí | 🟢 Completado |
+(https://www.linkedin.com/posts/ruben-ramos_github-rdramosumercado-laboral-steam-cr-share-7474864458662715392-I-1o/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAChGLMoBf7GYJaNtqlgpzhtt9Jr9qJkG8zc)
 | 3 | [Habilidades demandadas tech CR](https://github.com/RDRamosU/cr-habilidades-demanda-tech) | 🟢 Completado |
 | 4 | [CR vs Latinoamérica en STEAM](https://github.com/RDRamosU/cr-steam-comparativa-regional) | 🟢 Completado |
 
